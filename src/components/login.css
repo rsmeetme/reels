@@ -1,0 +1,38 @@
+.login-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+}
+
+.login-card {
+  width: 28vw;
+}
+
+.insta-logo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.insta-slider {
+  /* width: 465px;
+  height: 635px; */
+  width: 441px;
+  height: 590px;
+  position: relative;
+}
+
+.insta-slider .slider {
+  position: absolute;
+  height: 510px;
+  width: 255px;
+  left: 154px;
+  top: 24px;
+  border-radius: 25px;
+}
+
+.insta-slider .slider img {
+  border-radius: 25px;
+}
