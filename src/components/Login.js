@@ -81,7 +81,6 @@ export default function Login() {
             infinite={true}
             touchEnabled={true}
             dragEnabled={true}
-            totalSlides={4}
           >
             <Slider>
               <Slide index={0}>
